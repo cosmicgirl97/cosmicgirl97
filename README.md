@@ -21,7 +21,7 @@ I'm Rafaela from Braga, Portugal!
 
 ### About my journey
 
-- Currently: Software Quality Engineer at Red Hat (working on [AppStudio](https://github.com/redhat-appstudio): check my work [here](https://github.com/rsoaresd))
+- Currently: Software Quality Engineer at Red Hat (working on Sandbox: check my work [here](https://github.com/rsoaresd))
 - Previously: Software Developer at Checkmarx (worked on [KICS](https://github.com/Checkmarx/kics): check my work [here](https://github.com/rafaela-soares))
 
 
